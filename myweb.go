@@ -1,4 +1,4 @@
-package mytext
+package myweb
 
 import (
 	"fmt"
